@@ -1,0 +1,2 @@
+# Final_Project_COGS108
+Final project for COGS 108 "Data Science in Practice" course at UC San Diego. Involves analysis of a San Diego government survey assessing overall resident satisfaction. Aims to understand the relationship between the income level of the resident and their satisfaction with different aspects of San Diego, specifically street conditions and efforts to assist the underserved.
